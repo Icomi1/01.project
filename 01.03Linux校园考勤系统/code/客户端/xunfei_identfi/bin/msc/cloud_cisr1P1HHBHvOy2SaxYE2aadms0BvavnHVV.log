@@ -1,0 +1,49 @@
+============================================================
+Time  2023/06/29 05:36:11 611 
+============================================================
+[2023/06/29 05:36:11 611] isr_1conn  2234 SYS_MSG_LOAD_CLOUD  
+[2023/06/29 05:36:11 621] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(3806ca60) 
+[2023/06/29 05:36:11 645] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_rslt_cb  param1 =  func(3806e3c0) 
+[2023/06/29 05:36:11 651] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_err_cb  param1 =  func(3806e510) 
+[2023/06/29 05:36:11 654] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_status_cb  param1 =  func(3806e5f0) 
+[2023/06/29 05:36:11 663] isr_1conn  1411 onesoc  
+[2023/06/29 05:36:11 668] isr_1conn  1412 ASR_CLOUD_MSG_SSB  
+[2023/06/29 05:36:11 673] isr_1conn  1427 isr_1conn  cloud_cisr1P1HHBHvOy2SaxYE2aadms0BvavnHVV  268436457  1573471853  
+[2023/06/29 05:36:11 686] isr_1conn  1497 req_lgi_id =  nil  
+[2023/06/29 05:36:11 689] isr_1conn  1498 not login!  
+[2023/06/29 05:36:11 694] isr_1conn  1631 nil  
+[2023/06/29 05:36:11 697] isr_1conn  1697 speex-wb  
+[2023/06/29 05:36:11 705] isr_1conn  1785 net_once_bytes  nil  
+[2023/06/29 05:36:11 711] isr_1conn  1790 need_encode  true  
+[2023/06/29 05:36:11 713] isr_1conn  1792 once bytes  122  
+[2023/06/29 05:36:11 729] isr_1conn  1816 User set url is   nil  
+[2023/06/29 05:36:11 730] transport  645  paramkvsport is   nil  
+[2023/06/29 05:36:11 731] transport  657  ns_enable=  1  
+[2023/06/29 05:36:11 732] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2023/06/29 05:36:11 733] transport  665  net.nettype=  unknown  
+[2023/06/29 05:36:11 734] transport  675  url.full=  nil  
+[2023/06/29 05:36:11 775] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2023/06/29 05:36:11 777] transport  907  net type:  unknown  
+[2023/06/29 05:36:11 779] transport  908  net operator:  def  
+[2023/06/29 05:36:11 781] transport  909  use proxy:  false  
+[2023/06/29 05:36:11 784] transport  1105 session.domain=  open.xf-yun.com  
+[2023/06/29 05:36:11 787] transport  1106 url.host=  open.xf-yun.com  
+[2023/06/29 05:36:11 789] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:36:11 790] transport  1179 try preferred port:  nil  
+[2023/06/29 05:36:11 791] transport  1083 NAMESERVER START  
+[2023/06/29 05:36:11 792] transport  1086 name =   iat  
+[2023/06/29 05:36:11 793] ns         634  ntt=  unknown  
+[2023/06/29 05:36:11 793] transport  1089 trans,ns_inprog =  0  
+[2023/06/29 05:36:11 794] ns         582  name server start  
+[2023/06/29 05:36:11 795] ns         588  ns_sub =   iat  
+[2023/06/29 05:36:11 796] ns         596  ns_host =   open.xf-yun.com  
+[2023/06/29 05:36:11 798] ns         475  ns_host=  open.xf-yun.com  
+[2023/06/29 05:36:11 799] ns         555  net_type =  standard  
+[2023/06/29 05:36:11 800] ns         556  cmwapascmnet =  
+[2023/06/29 05:36:11 801] ns         557  uniwapasuninet =  
+[2023/06/29 05:36:11 802] ns         558  ctwapasctnet =  
+[2023/06/29 05:36:11 804] ns         576  host=  hdns.xf-yun.com  
+[2023/06/29 05:36:11 805] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2023/06/29 05:36:11 809] isr_1conn  2060 ASR_CLOUD_MSG_SSE  
+[2023/06/29 05:36:11 813] isr_1conn  1276 isr_1conn session info  
+[2023/06/29 05:36:11 837] isr_1conn  2203 session finished! ret =   10131  

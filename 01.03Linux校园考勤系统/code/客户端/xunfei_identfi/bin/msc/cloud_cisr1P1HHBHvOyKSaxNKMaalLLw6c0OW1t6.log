@@ -1,0 +1,338 @@
+============================================================
+Time  2023/06/29 05:35:07 639 
+============================================================
+[2023/06/29 05:35:07 640] isr_1conn  2234 SYS_MSG_LOAD_CLOUD  
+[2023/06/29 05:35:07 643] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(3406cac0) 
+[2023/06/29 05:35:07 657] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_rslt_cb  param1 =  func(3406e420) 
+[2023/06/29 05:35:07 660] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_err_cb  param1 =  func(3406e570) 
+[2023/06/29 05:35:07 676] isr_1conn  2255 SYS_MSG_REGCB_CLOUD param0 =   cloud_status_cb  param1 =  func(3406e650) 
+[2023/06/29 05:35:07 683] isr_1conn  1411 onesoc  
+[2023/06/29 05:35:07 684] isr_1conn  1412 ASR_CLOUD_MSG_SSB  
+[2023/06/29 05:35:07 691] isr_1conn  1427 isr_1conn  cloud_cisr1P1HHBHvOyKSaxNKMaalLLw6c0OW1t6  268436457  1573471853  
+[2023/06/29 05:35:07 692] isr_1conn  1497 req_lgi_id =  nil  
+[2023/06/29 05:35:07 696] isr_1conn  1498 not login!  
+[2023/06/29 05:35:07 701] isr_1conn  1631 nil  
+[2023/06/29 05:35:07 704] isr_1conn  1697 speex-wb  
+[2023/06/29 05:35:07 706] isr_1conn  1785 net_once_bytes  nil  
+[2023/06/29 05:35:07 707] isr_1conn  1790 need_encode  true  
+[2023/06/29 05:35:07 709] isr_1conn  1792 once bytes  122  
+[2023/06/29 05:35:07 719] isr_1conn  1816 User set url is   nil  
+[2023/06/29 05:35:07 721] transport  645  paramkvsport is   nil  
+[2023/06/29 05:35:07 722] transport  657  ns_enable=  1  
+[2023/06/29 05:35:07 725] transport  659  2017-08--24 is_ns_need_close =   nil  
+[2023/06/29 05:35:07 726] transport  665  net.nettype=  unknown  
+[2023/06/29 05:35:07 728] transport  675  url.full=  nil  
+[2023/06/29 05:35:07 729] transport  680  server_url_host=, server_url_port=, server_url_path=  open.xf-yun.com  nil  /msp.do  
+[2023/06/29 05:35:07 731] transport  907  net type:  unknown  
+[2023/06/29 05:35:07 733] transport  908  net operator:  def  
+[2023/06/29 05:35:07 739] transport  909  use proxy:  false  
+[2023/06/29 05:35:07 748] transport  1105 session.domain=  open.xf-yun.com  
+[2023/06/29 05:35:07 750] transport  1106 url.host=  open.xf-yun.com  
+[2023/06/29 05:35:07 752] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:07 754] transport  1179 try preferred port:  nil  
+[2023/06/29 05:35:07 756] transport  1083 NAMESERVER START  
+[2023/06/29 05:35:07 759] transport  1086 name =   iat  
+[2023/06/29 05:35:07 769] ns         634  ntt=  unknown  
+[2023/06/29 05:35:07 772] transport  1089 trans,ns_inprog =  0  
+[2023/06/29 05:35:07 783] ns         582  name server start  
+[2023/06/29 05:35:07 786] ns         588  ns_sub =   iat  
+[2023/06/29 05:35:07 788] ns         596  ns_host =   open.xf-yun.com  
+[2023/06/29 05:35:07 790] ns         475  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:07 791] ns         555  net_type =  standard  
+[2023/06/29 05:35:07 795] ns         556  cmwapascmnet =  
+[2023/06/29 05:35:07 797] ns         557  uniwapasuninet =  
+[2023/06/29 05:35:07 799] ns         558  ctwapasctnet =  
+[2023/06/29 05:35:07 801] ns         576  host=  hdns.xf-yun.com  
+[2023/06/29 05:35:07 803] network    263  gethostbyname  hdns.xf-yun.com  ns1  
+[2023/06/29 05:35:07 852] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  1  
+[2023/06/29 05:35:07 853] isr_1conn  1868     
+[2023/06/29 05:35:07 889] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:07 997] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 107] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 113] isr_1conn  262  netperf:  98  
+[2023/06/29 05:35:08 244] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 343] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 421] isr_1conn  262  netperf:  86  
+[2023/06/29 05:35:08 447] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 604] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 613] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 689] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 731] isr_1conn  262  netperf:  76  
+[2023/06/29 05:35:08 798] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:08 937] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 035] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 042] isr_1conn  262  netperf:  67  
+[2023/06/29 05:35:09 142] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 254] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 349] isr_1conn  262  netperf:  53  
+[2023/06/29 05:35:09 403] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 413] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 489] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 602] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 657] isr_1conn  262  netperf:  41  
+[2023/06/29 05:35:09 727] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 840] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 953] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:09 968] isr_1conn  262  netperf:  32  
+[2023/06/29 05:35:10 079] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 090] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 185] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 274] isr_1conn  262  netperf:  29  
+[2023/06/29 05:35:10 293] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 400] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 533] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 584] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:10 638] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 747] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 808] network    231  dns timeout!  ns1  
+[2023/06/29 05:35:10 810] ns         454  ns dns failed, err =   10114  
+[2023/06/29 05:35:10 811] network    445  gethttpresp2  42.62.116.18  80  ns2  
+[2023/06/29 05:35:10 812] network    465  prot_type  tcp  
+[2023/06/29 05:35:10 837] transport  309  [dns] [1] timeout!   
+[2023/06/29 05:35:10 837] transport  77   dns_failed  
+[2023/06/29 05:35:10 838] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:10 839] network    90   ipfromenv ,  ipcfg  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:10 842] transport  1304 [soc] connect   42.62.116.18  1028  
+[2023/06/29 05:35:10 844] transport  1316 mspsoc.open,prot_type=  tcp  
+[2023/06/29 05:35:10 892] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:10 906] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 917] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:10 987] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 093] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 208] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 215] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:11 336] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 440] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 523] isr_1conn  262  netperf:  18  
+[2023/06/29 05:35:11 581] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 697] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 709] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 800] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:11 830] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:11 898] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 027] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 133] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 140] isr_1conn  262  netperf:  15  
+[2023/06/29 05:35:12 240] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 373] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 447] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:12 498] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 520] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 591] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 714] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 755] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:12 828] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:12 932] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:13 040] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:13 061] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:13 168] isr_1conn  1851 ASR_CLOUD_MSG_AUW  3200  2  
+[2023/06/29 05:35:13 179] isr_1conn  1851 ASR_CLOUD_MSG_AUW  320  4  
+[2023/06/29 05:35:13 180] isr_1conn  1905 starttimer status_cb_timeout, timeout is:  3000  
+[2023/06/29 05:35:13 181] isr_1conn  1914 audio len:  173120  
+[2023/06/29 05:35:13 182] isr_1conn  1917 drate:   0  
+[2023/06/29 05:35:13 183] isr_1conn  1920 vad  
+[2023/06/29 05:35:13 184] isr_1conn  1929 drate, start local.  
+[2023/06/29 05:35:13 372] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:13 688] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:13 997] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:14 302] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:14 607] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:14 911] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:15 217] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:15 521] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:15 826] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:15 839] network    298  resp timeout!  ns2  
+[2023/06/29 05:35:15 848] ns         253  name server http resp  10114  
+[2023/06/29 05:35:15 850] ns         412  ns response failed, err =  10114  
+[2023/06/29 05:35:15 857] ns         114  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:15 859] ns         116  use default ip  
+[2023/06/29 05:35:15 861] transport  1063 ns_ip =   42.62.116.18  
+[2023/06/29 05:35:15 873] transport  1064 ip_type =  def_iatopen.xf-yun.com  
+[2023/06/29 05:35:15 874] ns         670  no data in ns_q  
+[2023/06/29 05:35:15 879] ns         671  conti_ns,ns_inprog =   1  
+[2023/06/29 05:35:15 885] transport  342  soc_conn_failed  
+[2023/06/29 05:35:15 900] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:15 912] transport  416  switch 80  
+[2023/06/29 05:35:15 933] transport  437  MSC:[soc] [1] conn timeout!  
+[2023/06/29 05:35:15 938] transport  1332 [soc] disconnect   
+[2023/06/29 05:35:15 944] transport  67   clear_ip ip_type =  def_iatopen.xf-yun.com  
+[2023/06/29 05:35:15 950] transport  1105 session.domain=  open.xf-yun.com  
+[2023/06/29 05:35:15 953] transport  1106 url.host=  open.xf-yun.com  
+[2023/06/29 05:35:15 958] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:15 961] transport  1179 try preferred port:  80  
+[2023/06/29 05:35:15 962] transport  1083 NAMESERVER START  
+[2023/06/29 05:35:15 963] transport  1086 name =   iat  
+[2023/06/29 05:35:15 967] ns         634  ntt=  unknown  
+[2023/06/29 05:35:15 969] transport  1089 trans,ns_inprog =  0  
+[2023/06/29 05:35:15 972] ns         582  name server start  
+[2023/06/29 05:35:15 973] ns         588  ns_sub =   iat  
+[2023/06/29 05:35:15 973] ns         596  ns_host =   open.xf-yun.com  
+[2023/06/29 05:35:15 977] ns         475  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:15 980] ns         555  net_type =  standard  
+[2023/06/29 05:35:15 981] ns         556  cmwapascmnet =  
+[2023/06/29 05:35:15 981] ns         557  uniwapasuninet =  
+[2023/06/29 05:35:15 982] ns         558  ctwapasctnet =  
+[2023/06/29 05:35:15 983] ns         576  host=  hdns.xf-yun.com  
+[2023/06/29 05:35:15 984] network    263  gethostbyname  hdns.xf-yun.com  ns3  
+[2023/06/29 05:35:16 130] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:16 182] isr_1conn  218  The called number of status_cb_timeout:  1  
+[2023/06/29 05:35:16 438] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:16 749] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:17 052] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:17 361] isr_1conn  262  netperf:  15  
+[2023/06/29 05:35:17 665] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:17 971] isr_1conn  262  netperf:  15  
+[2023/06/29 05:35:18 289] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:18 593] isr_1conn  262  netperf:  18  
+[2023/06/29 05:35:18 897] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:18 986] transport  309  [dns] [1] timeout!   
+[2023/06/29 05:35:18 987] transport  77   dns_failed  
+[2023/06/29 05:35:18 993] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:18 994] network    90   ipfromenv ,  ipcfg  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:18 997] transport  1304 [soc] connect   42.62.116.18  80  
+[2023/06/29 05:35:19 001] transport  1316 mspsoc.open,prot_type=  tcp  
+[2023/06/29 05:35:19 009] network    231  dns timeout!  ns3  
+[2023/06/29 05:35:19 010] ns         454  ns dns failed, err =   10114  
+[2023/06/29 05:35:19 011] network    445  gethttpresp2  42.62.116.18  80  ns4  
+[2023/06/29 05:35:19 012] network    465  prot_type  tcp  
+[2023/06/29 05:35:19 192] isr_1conn  218  The called number of status_cb_timeout:  2  
+[2023/06/29 05:35:19 204] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:19 512] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:19 820] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:20 124] isr_1conn  262  netperf:  18  
+[2023/06/29 05:35:20 428] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:20 732] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:21 036] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:21 340] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:21 644] isr_1conn  262  netperf:  18  
+[2023/06/29 05:35:21 948] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:22 198] isr_1conn  218  The called number of status_cb_timeout:  3  
+[2023/06/29 05:35:22 252] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:22 557] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:22 862] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:23 166] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:23 471] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:23 775] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:24 009] transport  342  soc_conn_failed  
+[2023/06/29 05:35:24 013] network    95   iptoenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:24 026] transport  416  switch 80  
+[2023/06/29 05:35:24 032] transport  437  MSC:[soc] [1] conn timeout!  
+[2023/06/29 05:35:24 034] transport  1332 [soc] disconnect   
+[2023/06/29 05:35:24 040] transport  67   clear_ip ip_type =  def_iatopen.xf-yun.com  
+[2023/06/29 05:35:24 041] transport  1105 session.domain=  open.xf-yun.com  
+[2023/06/29 05:35:24 043] transport  1106 url.host=  open.xf-yun.com  
+[2023/06/29 05:35:24 050] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:24 051] transport  1179 try preferred port:  80  
+[2023/06/29 05:35:24 058] transport  1083 NAMESERVER START  
+[2023/06/29 05:35:24 061] transport  1086 name =   iat  
+[2023/06/29 05:35:24 064] ns         634  ntt=  unknown  
+[2023/06/29 05:35:24 066] transport  1089 trans,ns_inprog =  1  
+[2023/06/29 05:35:24 070] network    298  resp timeout!  ns4  
+[2023/06/29 05:35:24 072] ns         253  name server http resp  10114  
+[2023/06/29 05:35:24 074] ns         412  ns response failed, err =  10114  
+[2023/06/29 05:35:24 076] ns         114  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:24 078] ns         116  use default ip  
+[2023/06/29 05:35:24 079] transport  1063 ns_ip =   42.62.116.18  
+[2023/06/29 05:35:24 080] transport  1064 ip_type =  def_iatopen.xf-yun.com  
+[2023/06/29 05:35:24 084] transport  1304 [soc] connect   42.62.116.18  80  
+[2023/06/29 05:35:24 085] transport  1316 mspsoc.open,prot_type=  tcp  
+[2023/06/29 05:35:24 090] ns         582  name server start  
+[2023/06/29 05:35:24 091] ns         588  ns_sub =   iat  
+[2023/06/29 05:35:24 092] ns         596  ns_host =   open.xf-yun.com  
+[2023/06/29 05:35:24 094] ns         475  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:24 094] ns         555  net_type =  standard  
+[2023/06/29 05:35:24 095] ns         556  cmwapascmnet =  
+[2023/06/29 05:35:24 099] ns         557  uniwapasuninet =  
+[2023/06/29 05:35:24 101] ns         558  ctwapasctnet =  
+[2023/06/29 05:35:24 103] ns         576  host=  hdns.xf-yun.com  
+[2023/06/29 05:35:24 104] network    263  gethostbyname  hdns.xf-yun.com  ns5  
+[2023/06/29 05:35:24 107] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:24 412] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:24 724] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:25 029] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:25 201] isr_1conn  218  The called number of status_cb_timeout:  4  
+[2023/06/29 05:35:25 335] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:25 638] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:25 942] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:26 246] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:26 549] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:26 852] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:27 069] transport  309  [dns] [1] timeout!   
+[2023/06/29 05:35:27 070] transport  77   dns_failed  
+[2023/06/29 05:35:27 107] network    231  dns timeout!  ns5  
+[2023/06/29 05:35:27 108] ns         454  ns dns failed, err =   10114  
+[2023/06/29 05:35:27 109] network    445  gethttpresp2  42.62.116.18  80  ns6  
+[2023/06/29 05:35:27 110] network    465  prot_type  tcp  
+[2023/06/29 05:35:27 157] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:27 461] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:27 764] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:28 068] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:28 169] isr_1conn  762  start a new session  
+[2023/06/29 05:35:28 177] network    90   ipfromenv ,  ipcache  open.xf-yun.com  def  nil  
+[2023/06/29 05:35:28 178] transport  972  iplist not avail  
+[2023/06/29 05:35:28 180] transport  1332 [soc] disconnect   
+[2023/06/29 05:35:28 183] transport  991  transport clean  
+[2023/06/29 05:35:28 186] isr_1conn  1173 no_audio is true  
+[2023/06/29 05:35:28 188] isr_1conn  1201 [session] send 1th audio  
+[2023/06/29 05:35:28 190] isr_1conn  1203 totalsz =   16470  
+[2023/06/29 05:35:28 191] isr_1conn  1206 start netperf_fs_timer  
+[2023/06/29 05:35:28 193] isr_1conn  1229 [session] send last audio!  
+[2023/06/29 05:35:28 372] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:28 676] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:28 980] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:28 993] isr_1conn  307  send_ok_num, timer_num, send_average =   0  2  0  
+[2023/06/29 05:35:28 995] isr_1conn  310  netperf =   30  
+[2023/06/29 05:35:28 997] isr_1conn  311  start netperf_other_timer  
+[2023/06/29 05:35:29 285] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:29 400] isr_1conn  289  send_ok_num, timer_num, send_average =   0  3  0  
+[2023/06/29 05:35:29 403] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:29 589] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:29 806] isr_1conn  289  send_ok_num, timer_num, send_average =   0  4  0  
+[2023/06/29 05:35:29 809] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:29 893] isr_1conn  262  netperf:  18  
+[2023/06/29 05:35:30 198] isr_1conn  262  netperf:  13  
+[2023/06/29 05:35:30 212] isr_1conn  289  send_ok_num, timer_num, send_average =   0  5  0  
+[2023/06/29 05:35:30 215] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:30 501] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:30 619] isr_1conn  289  send_ok_num, timer_num, send_average =   0  6  0  
+[2023/06/29 05:35:30 620] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:30 805] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:31 024] isr_1conn  289  send_ok_num, timer_num, send_average =   0  7  0  
+[2023/06/29 05:35:31 026] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:31 110] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:31 416] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:31 428] isr_1conn  289  send_ok_num, timer_num, send_average =   0  8  0  
+[2023/06/29 05:35:31 431] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:31 720] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:31 834] isr_1conn  289  send_ok_num, timer_num, send_average =   0  9  0  
+[2023/06/29 05:35:31 838] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:32 026] isr_1conn  262  netperf:  11  
+[2023/06/29 05:35:32 115] network    298  resp timeout!  ns6  
+[2023/06/29 05:35:32 118] ns         253  name server http resp  10114  
+[2023/06/29 05:35:32 119] ns         412  ns response failed, err =  10114  
+[2023/06/29 05:35:32 122] ns         114  ns_host=  open.xf-yun.com  
+[2023/06/29 05:35:32 124] ns         116  use default ip  
+[2023/06/29 05:35:32 125] ns         670  no data in ns_q  
+[2023/06/29 05:35:32 127] ns         671  conti_ns,ns_inprog =   1  
+[2023/06/29 05:35:32 241] isr_1conn  289  send_ok_num, timer_num, send_average =   0  10  0  
+[2023/06/29 05:35:32 244] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:32 330] isr_1conn  262  netperf:  14  
+[2023/06/29 05:35:32 633] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:32 648] isr_1conn  289  send_ok_num, timer_num, send_average =   0  11  0  
+[2023/06/29 05:35:32 650] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:32 938] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:33 054] isr_1conn  289  send_ok_num, timer_num, send_average =   0  12  0  
+[2023/06/29 05:35:33 056] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:33 241] isr_1conn  262  netperf:  16  
+[2023/06/29 05:35:33 460] isr_1conn  289  send_ok_num, timer_num, send_average =   0  13  0  
+[2023/06/29 05:35:33 462] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:33 544] isr_1conn  262  netperf:  19  
+[2023/06/29 05:35:33 848] isr_1conn  262  netperf:  12  
+[2023/06/29 05:35:33 868] isr_1conn  289  send_ok_num, timer_num, send_average =   0  14  0  
+[2023/06/29 05:35:33 870] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:34 152] isr_1conn  262  netperf:  17  
+[2023/06/29 05:35:34 273] isr_1conn  289  send_ok_num, timer_num, send_average =   0  15  0  
+[2023/06/29 05:35:34 275] isr_1conn  292  netperf =   30  
+[2023/06/29 05:35:34 456] isr_1conn  262  netperf:  10  
+[2023/06/29 05:35:34 681] isr_1conn  289  send_ok_num, timer_num, send_average =   0  16  0  
+[2023/06/29 05:35:34 684] isr_1conn  292  netperf =   30  
